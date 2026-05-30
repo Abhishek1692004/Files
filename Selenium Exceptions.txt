@@ -1,0 +1,7 @@
+1)NoSuchElementException
+2)StaleElementReferenceException
+3)TimeoutException
+4)ElementNotInteractableException
+5)ElementClickInterceptedException
+6)InvalidSelectorException
+7)NoAlertPresentException

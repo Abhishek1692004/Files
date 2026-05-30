@@ -1,0 +1,31 @@
+Web Automation ->
+I) TestNG ->
+1)@Test
+2)@BeforeMethod/@AfterMethod
+3)@BeforeClass/@AfterClass
+4)@BeforeTest/@AfterTest
+5)@BeforeSuite/@AfterSuite
+6)Assert.assertEquals(exp, act)
+7)Assert.assertTrue(true)
+8)Assert.assertNotEquals(exp, act)
+9)Assert.assertFalse(false)
+10)Assert.fail()
+11)HardAssert vs SoftAssert  (sa.assertAll() at end where sa is object of SoftAssert)
+12)dependsOnMethods={"functionName", ...}
+13)groups={"groupName", ....} and in xml use groups -> run -> include/exclude with name
+14)Parameterization
+15)@DataProvider(name="..", indices={0, 3, 8}) on the method which returns the object matrix consisting of the data and dataProvider="..." as a parameter to the @Test annotation and receive the data in the test method.
+16)parameter tag with name and value attributes in the xml is needed for passing data from xml to testcases. Use @Parameters annotation to accept the parameters. @Parameter({"browser", ...}) and use the parameters passed to the test methods.
+
+
+II) Cucumber ->
+1)
+
+
+
+III) Selenium ->
+1)Chained Locators
+2)Speed Test of different Locators
+3)Selenium 3 vs Selenium 4
+4)perform and build for mouse actions need
+5)Why can't we simply write ChromeDriver cd = new ChromeDriver();
