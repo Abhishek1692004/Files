@@ -1,0 +1,19 @@
+Java ->
+1) Memory Management And Garbage Collection
+2) JVM, JDK, JRE
+3) OOPS
+4) Vector Class
+5) Exception Handling
+6) Types of Trees and Graphs
+7) BFS and DFS
+8) Stack vs Queue Types
+9) final vs finally vs finalize
+10) String Pool
+11) String Builder, String Buffer, String object, String Literal
+12) Multithreading
+13) Collections(ArrayList, LinkedList, Vector, Stack, PriorityQueue, Dequeue, ArrayDequeue, HashSet, LinkedHashset, SortedSet, TreeSet, HashMap, LinkedHashMap, HashTable, SortedMap, TreeMap)
+14) Comparator vs Comparable
+15) Streams
+16) Functional Interface and Lambda Expressions
+17) Iterable Interface, Marker Interface
+18) instanceof keyword

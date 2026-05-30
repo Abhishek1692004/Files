@@ -1,0 +1,9 @@
+Angular -> 
+1) readonly
+2) HttpClient
+3) @Injectable
+4) Observable
+5) tap and pipe in http calls
+6) get and set keywords for defining functions
+7) Structural Directives
+8) stopPropagation and preventDefault

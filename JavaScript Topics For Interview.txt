@@ -1,0 +1,15 @@
+JavaScript -> 
+1) Higher Order Functions
+2) Constructor Functions
+3) First Class Functions
+4) New Keyword
+5) IIFE(Immediately Invoked Function Expression)
+6) Prototype and Prototypal Inheritance
+7) This in different contexts, Call, Apply, Bind
+8) Pure and Impure Functions
+9) Closures & Lexical Scoping
+10) Asynchronous JS(Promises, SetTimeout, SetInterval, Fetch, Callbacks, Async & Await, Main Stack, Side Stack, Event Loop, Concurrency, Threading, Throttling)
+11) JSON parse and stringify
+12) Splice method[array.splice(startIndex, deleteCount, item1, item2, ...), mutates the original array directly]
+13) Difference between ?? and ||. How do ||, &&, ??(optional chaining), .?(nullish coalescence) work?
+14) instanceof, typeof keywords

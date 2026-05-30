@@ -1,0 +1,12 @@
+SQL -> 
+1) Views
+2) Stored Procedures
+3) Indexes
+4) Triggers
+5) Common Table Expressions
+6) Window Functions
+7) Self Join
+8) SQL Categories(DQL, DDL, DML, DCL, TCL)
+9) ACID Properties
+10) Normalization(1NF, 2NF, 3NF) and Denormalization
+11) Keys in DB(Primary, Foreign, Composite, Unique, Super, Candidate, Alternate Keys)
